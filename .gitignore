@@ -10,6 +10,12 @@
 [Ll]ogs/
 [Mm]emoryCaptures/
 
+Assets/_toIgnore/*
+!Assets/_toIgnore/README.md
+!Assets/_toIgnore/README.md.meta
+!Assets/_toIgnore.meta
+
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
